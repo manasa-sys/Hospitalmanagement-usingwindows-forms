@@ -1,0 +1,15 @@
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Hospital_management\Hospital_management\bin\Debug\Hospital_management.exe.config
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Hospital_management\Hospital_management\bin\Debug\Hospital_management.exe
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Hospital_management\Hospital_management\bin\Debug\Hospital_management.pdb
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Hospital_management\Hospital_management\obj\Debug\Hospital_management.csproj.AssemblyReference.cache
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Hospital_management\Hospital_management\obj\Debug\Hospital_management.csproj.SuggestedBindingRedirects.cache
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Hospital_management\Hospital_management\obj\Debug\Hospital_management.Properties.Resources.resources
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Hospital_management\Hospital_management\obj\Debug\Hospital_management.csproj.GenerateResource.cache
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Hospital_management\Hospital_management\obj\Debug\Hospital_management.csproj.CoreCompileInputs.cache
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Hospital_management\Hospital_management\obj\Debug\Hospital_management.exe
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Hospital_management\Hospital_management\obj\Debug\Hospital_management.pdb
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Hospital_management\Hospital_management\obj\Debug\Hospital_management.Login.resources
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Hospital_management\Hospital_management\obj\Debug\Hospital_management.mainForm.resources
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Hospital_management\Hospital_management\obj\Debug\Hospital_management.DoctorForm.resources
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Hospital_management\Hospital_management\obj\Debug\Hospital_management.NurseForm.resources
+D:\LASALLE COLLEGE\SEMESTER 3\Multi tier Applications\My class files\Hospital_management\Hospital_management\obj\Debug\Hospital_management.PatientForm.resources
